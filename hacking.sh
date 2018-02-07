@@ -1,4 +1,4 @@
-!#/usr/bash
+#!/usr/bash
 
 h=1
 
