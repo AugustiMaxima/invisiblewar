@@ -7,6 +7,6 @@ do
 for i in "Unatco" "NSF" "NSA" "Illuminati" "Majestic 12" "CIA"
 do
 echo Hacking $i
-sleep $((RANDOM/$1))
+sleep $((RANDOM/$(($1))))
 done
 done
